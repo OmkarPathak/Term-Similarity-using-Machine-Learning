@@ -39,6 +39,8 @@ $python3 find_word_similarity.py 'machine learning'
 8  1.224047           data analytics
 9  1.241769       big data analytics
 
+# As we can see in the above output 'machine learning' is closely related to
+# terms or words as 'big data' and 'artificial intelligence'
 ```
 
 Built with ♥ by [`Omkar Pathak`](http://www.omkarpathak.in/)
